@@ -1,4 +1,4 @@
-# NLP & Sentiiment Analysis 
+# NLP & Sentiment Analysis 
 
 # Sentiment Analysis on Kozmos Customer Reviews
 
@@ -33,7 +33,7 @@ The dataset size is 489 KB and contains valuable insights for sentiment analysis
    - Using techniques like TF-IDF or Word Embeddings to convert text data into a format suitable for machine learning models.
    
 5. **Model Building**:
-   - Building and training a classification model (such as Logistic Regression, Random Forest, or Deep Learning models) to predict the sentiment of customer reviews.
+   - Building and training a classification model (such as Logistic Regression, Random Forest) to predict the sentiment of customer reviews.
 
 6. **Model Evaluation**:
    - Assessing the model's performance using metrics like accuracy, precision, recall, and F1-score.
@@ -46,7 +46,7 @@ The dataset size is 489 KB and contains valuable insights for sentiment analysis
 - `seaborn`
 - `sklearn`
 - `nltk`
-- `tensorflow` or `keras` (optional, depending on the model used)
+
 
 ## How to Run the Project
 
